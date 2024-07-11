@@ -18,7 +18,7 @@ namespace CalculatorSpecFlow.StepDefinitions
             // additional string/Table parameters can be defined on the step definition
             // method. 
 
-            throw new PendingStepException();
+            //throw new PendingStepException();
         }
 
         [Given("the second number is (.*)")]
@@ -26,7 +26,7 @@ namespace CalculatorSpecFlow.StepDefinitions
         {
             //TODO: implement arrange (precondition) logic
 
-            throw new PendingStepException();
+            //throw new PendingStepException();
         }
 
         [When("the two numbers are added")]
@@ -34,7 +34,7 @@ namespace CalculatorSpecFlow.StepDefinitions
         {
             //TODO: implement act (action) logic
 
-            throw new PendingStepException();
+           // throw new PendingStepException();
         }
 
         [Then("the result should be (.*)")]
@@ -42,7 +42,7 @@ namespace CalculatorSpecFlow.StepDefinitions
         {
             //TODO: implement assert (verification) logic
 
-            throw new PendingStepException();
+           // throw new PendingStepException();
         }
     }
 }
